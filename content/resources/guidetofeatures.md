@@ -2,8 +2,12 @@
 content_type: resource
 description: A guide which includes feature, acoustic and/or articulatory definition,
   list of sounds having the feature value given.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-962-advanced-phonology-spring-2005/7215a223c948556de536f3af42092fb8_guidetofeatures.pdf
+file: /media/courses/24-962-advanced-phonology-spring-2005/7215a223c948556de536f3af42092fb8_guidetofeatures.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: guidetofeatures.pdf
 uid: 7215a223-c948-556d-e536-f3af42092fb8
