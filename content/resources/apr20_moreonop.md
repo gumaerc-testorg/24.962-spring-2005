@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1b9a18db-babb-02b3-0e18-9cfabe44f6cd
 resourcetype: Document
 title: apr20_moreonop.pdf
 uid: d804a358-0681-d345-0b46-b27643c6d1be

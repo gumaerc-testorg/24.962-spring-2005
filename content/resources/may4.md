@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1b9a18db-babb-02b3-0e18-9cfabe44f6cd
 resourcetype: Document
 title: may4.pdf
 uid: bf3f7b9a-033b-1fae-91f2-62124e81b1a0

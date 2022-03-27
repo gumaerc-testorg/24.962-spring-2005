@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1b9a18db-babb-02b3-0e18-9cfabe44f6cd
 resourcetype: Document
 title: mar28_handout.pdf
 uid: bfd53a22-2337-63c9-e64d-f6fa44d6b24a

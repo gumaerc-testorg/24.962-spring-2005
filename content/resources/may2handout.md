@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1b9a18db-babb-02b3-0e18-9cfabe44f6cd
 resourcetype: Document
 title: may2handout.pdf
 uid: 24804e67-2149-7bdd-6e90-6177eb5af45a

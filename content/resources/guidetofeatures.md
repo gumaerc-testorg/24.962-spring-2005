@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1dd1d72f-1567-866f-b92e-4dd2f2e1b48b
 resourcetype: Document
 title: guidetofeatures.pdf
 uid: 7215a223-c948-556d-e536-f3af42092fb8
