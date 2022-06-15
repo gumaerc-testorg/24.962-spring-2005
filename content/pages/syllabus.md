@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on prerequisites, course requirements,
+  course description, brief historical overview, correspondence and OT, and questions
+  addressed.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +17,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[24.961](/courses/24-961-introduction-to-phonology-fall-2014/) or equivalent
+[24.961](/courses/24-961-introduction-to-phonology-fall-2014) or equivalent
 
 Course Requirements
 -------------------

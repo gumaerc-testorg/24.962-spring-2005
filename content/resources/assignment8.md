@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problems on OT analysis.
-file: /media/courses/24-962-advanced-phonology-spring-2005/8d26539ac072a2d014941c070a81f2b1_assignment8.pdf
+file: /courses/24-962-advanced-phonology-spring-2005/8d26539ac072a2d014941c070a81f2b1_assignment8.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: assignment8.pdf
 uid: 8d26539a-c072-a2d0-1494-1c070a81f2b1
 ---
+Problems on OT analysis.
+
