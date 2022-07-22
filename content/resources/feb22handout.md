@@ -6,6 +6,7 @@ file: /courses/24-962-advanced-phonology-spring-2005/7c17d5c88c713e40ea3d5ba6f3d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: feb22handout.pdf
 uid: 7c17d5c8-8c71-3e40-ea3d-5ba6f3db8b7b
 ---
 Includes topics: Canonical reduplication patterns, the OT equivalent, where to copy from, and where to put, generalizations, and a hypothesis.
-

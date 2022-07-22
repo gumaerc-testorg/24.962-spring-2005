@@ -6,6 +6,7 @@ file: /courses/24-962-advanced-phonology-spring-2005/f2a44a107cfe8b4d10e02184d56
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: noname4_11.pdf
 uid: f2a44a10-7cfe-8b4d-10e0-2184d56e39b3
 ---
 Includes topics: Monovocalicity, height conditions RH, one rounded V per word, distantial faithfulness, productive opacity, and sympathy summary.
-

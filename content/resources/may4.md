@@ -5,6 +5,7 @@ file: /courses/24-962-advanced-phonology-spring-2005/bf3f7b9a033b1fae91f262124e8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: may4.pdf
 uid: bf3f7b9a-033b-1fae-91f2-62124e81b1a0
 ---
 Includes topics: A brief history of TSS, and TSS generalization.
-

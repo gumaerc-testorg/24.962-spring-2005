@@ -5,6 +5,7 @@ file: /courses/24-962-advanced-phonology-spring-2005/03d9389e884fd5bffa6021b2696
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: noname4_20.pdf
 uid: 03d9389e-884f-d5bf-fa60-21b2696568b1
 ---
 Includes topic: Problems with sympathy.
-

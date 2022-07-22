@@ -6,6 +6,7 @@ file: /courses/24-962-advanced-phonology-spring-2005/c22f0ba1550da61bedd42e6ebcc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: noname3_16.pdf
 uid: c22f0ba1-550d-a61b-edd4-2e6ebccb951b
 ---
 Includes topics: Cyclic constraint evaluation, without OO constraints, flaws of the system, and TCT system.
-
