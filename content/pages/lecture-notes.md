@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This provides information on the topics with the PDFs of the corresponding
+  topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 1b9a18db-babb-02b3-0e18-9cfabe44f6cd
 ---
@@ -30,7 +35,7 @@ topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Correspondence Theory Basics ([PDF]({{< baseurl >}}/resources/feb2_corrbasics))
+Correspondence Theory Basics ({{% resource_link 2a335312-bbe4-4aa5-2356-0726a1d0dc63 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,7 +44,7 @@ Correspondence Theory Basics ([PDF]({{< baseurl >}}/resources/feb2_corrbasics))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Correspondence Theory (cont.) ([PDF]({{< baseurl >}}/resources/feb6_corrappend))
+Correspondence Theory (cont.) ({{% resource_link fbdae6f2-d55b-c2af-16dd-a61695c1aa9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +53,7 @@ Correspondence Theory (cont.) ([PDF]({{< baseurl >}}/resources/feb6_corrappend))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-MAX F Constraints and Positional Faithfulness ([PDF]({{< baseurl >}}/resources/feb9_24962maxf))
+MAX F Constraints and Positional Faithfulness ({{% resource_link 5894bb52-55d6-cd96-d62e-6f56459e88e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +68,7 @@ MAX F Constraints and Positional Faithfulness ([PDF]({{< baseurl >}}/resources/f
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Reduplication: Basic Laws ([PDF]({{< baseurl >}}/resources/24962redtemplate))
+Reduplication: Basic Laws ({{% resource_link 31fc1eb3-6552-46ee-bdd5-c095b629b17b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +77,7 @@ Reduplication: Basic Laws ([PDF]({{< baseurl >}}/resources/24962redtemplate))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Reduplicative Correspondence ([PDF]({{< baseurl >}}/resources/noname))
+Reduplicative Correspondence ({{% resource_link f3fca1c2-3f21-9735-7cde-958d4146dfa1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +86,7 @@ Reduplicative Correspondence ([PDF]({{< baseurl >}}/resources/noname))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Reduplicant Size and Placement ([PDF]({{< baseurl >}}/resources/feb22handout))
+Reduplicant Size and Placement ({{% resource_link 7c17d5c8-8c71-3e40-ea3d-5ba6f3db8b7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +113,7 @@ BR vs. IR Correspondence
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Emergence of the Unmarked, and Non-reduplicative Correspondence ([PDF]({{< baseurl >}}/resources/mar2handout))
+Emergence of the Unmarked, and Non-reduplicative Correspondence ({{% resource_link 6cc02ad4-22d7-add6-7b6b-a0967d1d4cbc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +137,7 @@ Lexical vs. Postlexical Phonology
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Cyclicity and its OT Translations ([PDF]({{< baseurl >}}/resources/noname3_9))
+Cyclicity and its OT Translations ({{% resource_link 2cc3d68e-6f86-1696-f3bf-73842124e0a1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +146,7 @@ Cyclicity and its OT Translations ([PDF]({{< baseurl >}}/resources/noname3_9))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-OO Correspondence ([PDF]({{< baseurl >}}/resources/noname3_14))
+OO Correspondence ({{% resource_link 324aaccb-6e08-e0f9-cb1c-51e61fb293e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ OO Correspondence ([PDF]({{< baseurl >}}/resources/noname3_14))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Base-derivative Correspondence ([PDF]({{< baseurl >}}/resources/noname3_16))
+Base-derivative Correspondence ({{% resource_link c22f0ba1-550d-a61b-edd4-2e6ebccb951b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +170,7 @@ Base-derivative Correspondence ([PDF]({{< baseurl >}}/resources/noname3_16))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Paradigm Uniformity ([PDF]({{< baseurl >}}/resources/mar28_handout))
+Paradigm Uniformity ({{% resource_link bfd53a22-2337-63c9-e64d-f6fa44d6b24a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +188,7 @@ Paradigm Uniformity (cont.)
 16
 {{< tdclose >}}
 {{< tdopen >}}
-More on Paradigm Regularization ([PDF]({{< baseurl >}}/resources/apr4_handout))
+More on Paradigm Regularization ({{% resource_link 1a3cbd9c-496b-3c8e-be5a-b3f684b2abf1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ More on Paradigm Regularization ([PDF]({{< baseurl >}}/resources/apr4_handout))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Overview: Types of Opacity ([PDF]({{< baseurl >}}/resources/noname4_6))
+Overview: Types of Opacity ({{% resource_link 0c553cab-1d9a-cb1e-ef32-4e86189be50e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +212,7 @@ Overview: Types of Opacity ([PDF]({{< baseurl >}}/resources/noname4_6))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Characteristics of Opacity ([PDF]({{< baseurl >}}/resources/noname4_11))
+Characteristics of Opacity ({{% resource_link f2a44a10-7cfe-8b4d-10e0-2184d56e39b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +221,7 @@ Characteristics of Opacity ([PDF]({{< baseurl >}}/resources/noname4_11))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Formalization of Opacity in OT ([PDF]({{< baseurl >}}/resources/april13_sympathy))
+Formalization of Opacity in OT ({{% resource_link 66809acf-7dc3-94b4-bb89-2ad3a6571add "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,9 +230,9 @@ Formalization of Opacity in OT ([PDF]({{< baseurl >}}/resources/april13_sympathy
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Sympathy Theory ([PDF]({{< baseurl >}}/resources/noname4_20))  
+Sympathy Theory ({{% resource_link 03d9389e-884f-d5bf-fa60-21b2696568b1 "PDF" %}})  
   
-Other Approaches to Opacity ([PDF]({{< baseurl >}}/resources/apr20_moreonop))
+Other Approaches to Opacity ({{% resource_link d804a358-0681-d345-0b46-b27643c6d1be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +241,7 @@ Other Approaches to Opacity ([PDF]({{< baseurl >}}/resources/apr20_moreonop))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Comparative Markedness ([PDF]({{< baseurl >}}/resources/apr25_compara))
+Comparative Markedness ({{% resource_link fdd90f2d-a11b-ce36-8919-08233039a372 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +256,7 @@ Comparative Markedness ([PDF]({{< baseurl >}}/resources/apr25_compara))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Exceptions ([PDF]({{< baseurl >}}/resources/apr27handout))
+Introduction to Exceptions ({{% resource_link a62168a7-a90e-595e-de81-335babefc632 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +265,7 @@ Introduction to Exceptions ([PDF]({{< baseurl >}}/resources/apr27handout))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-The Representation of Exceptions ([PDF]({{< baseurl >}}/resources/may2handout))
+The Representation of Exceptions ({{% resource_link 24804e67-2149-7bdd-6e90-6177eb5af45a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -269,7 +274,7 @@ The Representation of Exceptions ([PDF]({{< baseurl >}}/resources/may2handout))
 24
 {{< tdclose >}}
 {{< tdopen >}}
-What is regular, and what is an exception? ([PDF]({{< baseurl >}}/resources/may4))
+What is regular, and what is an exception? ({{% resource_link bf3f7b9a-033b-1fae-91f2-62124e81b1a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
