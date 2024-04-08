@@ -13,15 +13,15 @@ uid: 596739c7-1649-109e-1734-c41c3aa26655
 
 ## Selected References
 
-ROA = [Rutgers Optimality Archive](http://roa.rutgers.edu/)
+ROA = {{% resource_link "3557adc6-fdb3-4e81-ab6c-e2ef7246688c" "Rutgers Optimality Archive" %}}
 
 Alderete, Beckman, Benua, Gnanadesikan, McCarthy, and Urbanczyk. "Reduplication with Fixed Segmentism." *Linguistic Inquiry* 30 (1999): 327-364.
 
-Benua, L. *Transderivational Identity: Phonological Relations Between Words*. University of Massachusetts Dissertation, 1997. ([PDF](http://roa.rutgers.edu/files/259-0498/roa-259-benua-2.pdf))
+Benua, L. *Transderivational Identity: Phonological Relations Between Words*. University of Massachusetts Dissertation, 1997. ({{% resource_link "fc37f974-7dc5-4497-9225-aaa15d3658b2" "PDF" %}})
 
 Broselow, E., and J. McCarthy. "A Theory of Internal Reduplication." *The Linguistic Review* 3 (1983/1984): 25-88.
 
-Burzio, L. "[Sources of Paradigm Uniformity](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199267712.001.0001/acprof-9780199267712-chapter-4)." In *Paradigms in Phonological Theory*. Edited by Downing, Hall, and Raffelsiefen. New York, NY: Oxford University Press, 2005.
+Burzio, L. "{{% resource_link "d16e39ff-d645-4df0-afad-252048b7fb69" "Sources of Paradigm Uniformity" %}}." In *Paradigms in Phonological Theory*. Edited by Downing, Hall, and Raffelsiefen. New York, NY: Oxford University Press, 2005.
 
 Chung, S. "Transderivational Relationships in Chamorro Phonology." *Language* 59 (1983): 35-66.
 
@@ -29,7 +29,7 @@ Inkelas, Orgun, and Zoll. "Exceptions and Static Phonological Patterns: Cophonol
 
 Ito, J., and A. Mester. "Sympathy Theory and German Truncations." 1997. ROA 211.
 
-———. "On the Sources of Opacity in OT: Coda Processes in German." In *The Syllable in Optimality Theory*. Edited by Caroline Féry, and Ruben van de Vijver. Cambridge, UK: Cambridge University Press, 2003, pp. 271-303. ISBN: 0521772621. ([PDF](http://roa.rutgers.edu/files/347-0999/roa-347-ito-2.pdf))
+———. "On the Sources of Opacity in OT: Coda Processes in German." In *The Syllable in Optimality Theory*. Edited by Caroline Féry, and Ruben van de Vijver. Cambridge, UK: Cambridge University Press, 2003, pp. 271-303. ISBN: 0521772621. ({{% resource_link "31521ec1-7305-4954-a9a1-a182d1c814c5" "PDF" %}})
 
 Kenstowicz, M., and C. Kisseberth. *Topics in Phonological Theory*. Burlington, MA: Academic Press, 1977. ISBN: 0124051502.
 
@@ -45,21 +45,21 @@ Lombardi, L. "Evidence for Max Feature." 1998. ROA 247.
 
 Marantz, A. "Re Reduplication." *Linguistic Inquiry* 13 (1982): 435-482.
 
-McCarthy, J. "Sympathy and Phonological Opacity." *Phonology* 16 (1999): 331-399. ([PDF](http://people.umass.edu/jjmccart/sympathy.pdf))
+McCarthy, J. "Sympathy and Phonological Opacity." *Phonology* 16 (1999): 331-399. ({{% resource_link "2c3d20bb-1c9c-46ef-9ad0-40443af54102" "PDF" %}})
 
-———. "[Comparative Markedness](https://www.degruyter.com/downloadpdf/j/thli.2003.29.issue-1-2/thli.29.1-2.1/thli.29.1-2.1.pdf). [(PDF)](https://www.degruyter.com/downloadpdf/j/thli.2003.29.issue-1-2/thli.29.1-2.1/thli.29.1-2.1.pdf) " *Theoretical Linguistics* 29 (2003): 1-51.
+———. "{{% resource_link "ccf1b9a9-4132-4d36-8142-ca82e44a6392" "Comparative Markedness" %}}. {{% resource_link "ccf1b9a9-4132-4d36-8142-ca82e44a6392" "(PDF)" %}} " *Theoretical Linguistics* 29 (2003): 1-51.
 
-———. "Optimal Paradigms." In *Paradigms in Phonological Theory*. Edited by Downing, Hall, and Raffelsiefen. New York, NY: Oxford University Press, 2002, 2005. ISBN: 0199267715. ([PDF](http://roa.rutgers.edu/files/485-1201/485-1201-MCCARTHY-0-5.PDF))
+———. "Optimal Paradigms." In *Paradigms in Phonological Theory*. Edited by Downing, Hall, and Raffelsiefen. New York, NY: Oxford University Press, 2002, 2005. ISBN: 0199267715. ({{% resource_link "4b3b2d5d-44f7-43fd-b55b-ca224346ddca" "PDF" %}})
 
 McCarthy, J., and A. Prince. "The Emergence of the Unmarked: Optimality in Prosodic Morphology." 1994. ROA 13.
 
-———. "Faithfulness and Reduplicative Identity." *UMOP*. Vol. 18. Edited by Beckman, Dickey, and Urbanczyk. Amherst, MA: GLSA, 1995. ([PDF](http://roa.rutgers.edu/files/60-0000/60-0000-MCCARTHY-0-0.PDF))
+———. "Faithfulness and Reduplicative Identity." *UMOP*. Vol. 18. Edited by Beckman, Dickey, and Urbanczyk. Amherst, MA: GLSA, 1995. ({{% resource_link "43866bfa-3d03-4175-8d03-dff8420d51f0" "PDF" %}})
 
 Mohanan, K. P. "Lexical Phonology." 1982/1986. *The Theory of Lexical Phonology*. Dordrecht, Holland: Reidel Publishing Co.,  Norwell, MA: Kluwer Academic (in United States), 1986. ISBN: 9027722277.
 
-Prince, A., and J. McCarthy. "The Emergence of the Unmarked: Optimality in Prosodic Morphology." *NELS*. Vol. 24. Edited by M. Gonzalez. Amherst, MA: GLSA, 1994, pp. 333-379. ([PDF](http://roa.rutgers.edu/files/13-0594/13-0594-MCCARTHY-0-0.PDF))
+Prince, A., and J. McCarthy. "The Emergence of the Unmarked: Optimality in Prosodic Morphology." *NELS*. Vol. 24. Edited by M. Gonzalez. Amherst, MA: GLSA, 1994, pp. 333-379. ({{% resource_link "a3af6817-e468-44b5-b6a0-e3ea66fc1f08" "PDF" %}})
 
-Rose, S., and R. Walker. "A Typology of Consonant Agreement as Correspondence." *Language* 80 (2004): 475-531. ([PDF](http://roa.rutgers.edu/files/458-0801/458-0801-ROSE-0-0.PDF))
+Rose, S., and R. Walker. "A Typology of Consonant Agreement as Correspondence." *Language* 80 (2004): 475-531. ({{% resource_link "483b9033-2118-45d0-818d-d80098a3d192" "PDF" %}})
 
 Steriade, D. "Lexical Conservatism." In *Proceedings of the 25th Linguistic Colloquium on Romance Languages.* Edited by M. Authier, B. Bullock, and L. Reed, J. Benjamnins, 1999.
 
