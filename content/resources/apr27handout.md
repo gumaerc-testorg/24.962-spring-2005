@@ -5,6 +5,7 @@ description: 'Includes topics: Exceptions, its importantance for phonology, syst
   negative environment exceptions, positive input exceptions, and positive environment
   exceptions.'
 file: /courses/24-962-advanced-phonology-spring-2005/a62168a7a90e595ede81335babefc632_apr27handout.pdf
+file_size: 197021
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

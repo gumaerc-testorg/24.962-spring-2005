@@ -3,6 +3,7 @@ content_type: resource
 description: Discusses about grandfather and derived environment effects on linguistic,
   and counterfeeding opacity cases.
 file: /courses/24-962-advanced-phonology-spring-2005/fdd90f2da11bce36891908233039a372_apr25_compara.pdf
+file_size: 126022
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

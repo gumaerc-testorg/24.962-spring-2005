@@ -5,6 +5,7 @@ description: 'Includes topics: Review of topics covered in previous lecture, OO 
   motivating uniformity constraints, its applications, and base priority, or global
   optimization.'
 file: /courses/24-962-advanced-phonology-spring-2005/bfd53a22233763c9e64df6fa44d6b24a_mar28_handout.pdf
+file_size: 828396
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

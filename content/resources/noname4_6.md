@@ -4,6 +4,7 @@ description: 'Includes topics: Linear rule systems, major research questions, no
   ordering by transitivity, non-interaction, feeding interaction, alternations in
   Karok, rules for Karok, counterfeeding and counterbleeding.'
 file: /courses/24-962-advanced-phonology-spring-2005/0c553cab1d9acb1eef324e86189be50e_noname4_6.pdf
+file_size: 116603
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
