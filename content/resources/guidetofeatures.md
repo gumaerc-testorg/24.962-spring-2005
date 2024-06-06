@@ -3,6 +3,7 @@ content_type: resource
 description: A guide which includes feature, acoustic and/or articulatory definition,
   list of sounds having the feature value given.
 file: /courses/24-962-advanced-phonology-spring-2005/7215a223c948556de536f3af42092fb8_guidetofeatures.pdf
+file_size: 72253
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
