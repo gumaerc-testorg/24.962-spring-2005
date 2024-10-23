@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-962-advanced-phonology-spring-2005/fbdae6f2d55bc2af16dda61695c1aa9f_feb6_corrappend.pdf
+file: /ol-ocw-studio-app/courses/24-962-advanced-phonology-spring-2005/fbdae6f2d55bc2af16dda61695c1aa9f_feb6_corrappend.pdf
 file_size: 93613
 file_type: application/pdf
 learning_resource_types:

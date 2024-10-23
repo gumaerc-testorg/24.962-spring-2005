@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Includes topics: The initial evidence for BR correspondence, does base
   copy RED, problems for BR correspondence, and the final evidence for BR correspondence.'
-file: /courses/24-962-advanced-phonology-spring-2005/f3fca1c23f2197357cde958d4146dfa1_noname.pdf
+file: /ol-ocw-studio-app/courses/24-962-advanced-phonology-spring-2005/f3fca1c23f2197357cde958d4146dfa1_noname.pdf
 file_size: 154003
 file_type: application/pdf
 learning_resource_types:
