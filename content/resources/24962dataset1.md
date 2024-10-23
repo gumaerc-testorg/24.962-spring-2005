@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Includes data from Sanskrit C-initial roots.
-file: /courses/24-962-advanced-phonology-spring-2005/a172b95e7d6f7f174d225106fff0e5bd_24962dataset1.pdf
+file: /ol-ocw-studio-app/courses/24-962-advanced-phonology-spring-2005/a172b95e7d6f7f174d225106fff0e5bd_24962dataset1.pdf
 file_size: 83101
 file_type: application/pdf
 learning_resource_types:
