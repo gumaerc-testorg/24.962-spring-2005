@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of glottalized consonant, and palatal glide.
-file: /ol-ocw-studio-app/courses/24-962-advanced-phonology-spring-2005/1f0dfe63ffce0c6cf65376bce13ef0eb_assignment9_data.pdf
+file: /courses/24-962-advanced-phonology-spring-2005/1f0dfe63ffce0c6cf65376bce13ef0eb_assignment9_data.pdf
 file_size: 65585
 file_type: application/pdf
 learning_resource_types:

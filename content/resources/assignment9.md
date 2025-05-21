@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problems on sympathy theory.
-file: /ol-ocw-studio-app/courses/24-962-advanced-phonology-spring-2005/097b008e630a50c984653d76baf1839b_assignment9.pdf
+file: /courses/24-962-advanced-phonology-spring-2005/097b008e630a50c984653d76baf1839b_assignment9.pdf
 file_size: 43480
 file_type: application/pdf
 learning_resource_types:
