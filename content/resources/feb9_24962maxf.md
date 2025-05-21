@@ -4,7 +4,7 @@ description: 'Includes topics: Coalescence, ident aF vs. Max F constraints, fixe
   rankings of MAX F, floating features and Max F constraints; floating tones, Max
   segment[aF] constraints, linearity, segment integrity and segment deletion in a
   Max F theory, positional correspondence: Beckman''s version, and UR and SR.'
-file: /ol-ocw-studio-app/courses/24-962-advanced-phonology-spring-2005/5894bb5255d6cd96d62e6f56459e88e5_feb9_24962maxf.pdf
+file: /courses/24-962-advanced-phonology-spring-2005/5894bb5255d6cd96d62e6f56459e88e5_feb9_24962maxf.pdf
 file_size: 146959
 file_type: application/pdf
 learning_resource_types:

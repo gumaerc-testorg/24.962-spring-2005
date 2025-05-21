@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Explains theory of exceptions, and predictions of this theory.
-file: /ol-ocw-studio-app/courses/24-962-advanced-phonology-spring-2005/24804e6721497bdd6e906177eb5af45a_may2handout.pdf
+file: /courses/24-962-advanced-phonology-spring-2005/24804e6721497bdd6e906177eb5af45a_may2handout.pdf
 file_size: 234513
 file_type: application/pdf
 learning_resource_types:

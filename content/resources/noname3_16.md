@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Includes topics: Cyclic constraint evaluation, without OO constraints,
   flaws of the system, and TCT system.'
-file: /ol-ocw-studio-app/courses/24-962-advanced-phonology-spring-2005/c22f0ba1550da61bedd42e6ebccb951b_noname3_16.pdf
+file: /courses/24-962-advanced-phonology-spring-2005/c22f0ba1550da61bedd42e6ebccb951b_noname3_16.pdf
 file_size: 134170
 file_type: application/pdf
 learning_resource_types:
