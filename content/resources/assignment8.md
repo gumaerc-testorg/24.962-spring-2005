@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problems on OT analysis.
-file: /courses/24-962-advanced-phonology-spring-2005/8d26539ac072a2d014941c070a81f2b1_assignment8.pdf
+file: /ol-ocw-studio-app/courses/24-962-advanced-phonology-spring-2005/8d26539ac072a2d014941c070a81f2b1_assignment8.pdf
 file_size: 79682
 file_type: application/pdf
 learning_resource_types:
